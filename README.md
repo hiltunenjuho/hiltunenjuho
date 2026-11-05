@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/profile-banner.png" alt="Juho Hiltunen — turning everyday problems into useful software" width="100%">
 
-  <h1>Hey, I'm Juho 👋</h1>
+  <h1>Hello, I'm Juho 👋</h1>
   <h3>Junior Software Developer · Practical problem solver · Always learning</h3>
 
   <p>
@@ -10,13 +10,13 @@
   </p>
 
   <a href="https://hiltunenjuho.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FFD700?style=for-the-badge&logo=googlechrome&logoColor=171717" alt="Portfolio">
+    <img src="https://img.shields.io/badge/WEBSITE-FFD700?style=for-the-badge&logo=googlechrome&logoColor=171717" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/hiltunenjuho/">
-    <img src="https://img.shields.io/badge/LINKEDIN-B026FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:juho.m.hiltunen@gmail.com">
-    <img src="https://img.shields.io/badge/LET'S_TALK-292929?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email Juho">
+    <img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=f2a60c" alt="Email Juho">
   </a>
 </div>
 
@@ -34,13 +34,13 @@ Since 2024, I've been developing my skills through software development and prog
 
 A personal planning app for organizing the day with a timeline, reusable templates, and notes. Built with **React, TypeScript, Vite, and Zustand**. The project is actively in progress.
 
-### ✨ [Personal portfolio](https://hiltunenjuho.github.io/)
+### ✨ [Personal portfolio website](https://hiltunenjuho.github.io/)
 
 My corner of the web: a responsive portfolio with animated interactions and a little glow. Built with **HTML, CSS, and JavaScript**.
 
 ### 🧩 Workflow tools & automations
 
-I've also built JavaScript tools and automations to reduce repetitive work in real business workflows. Some were made for internal systems and can't be shared publicly—but I'm happy to talk about the problems and how I approached them.
+I've also built numerous JavaScript tools, browser extensions, integrations, APIs and automations to reduce repetitive work in real business workflows. Some were made for internal systems and can't be shared publicly—but I'm happy to talk about the problems and how I approached them.
 
 ## 🛠️ My toolkit
 
@@ -101,11 +101,11 @@ Finnish · English · Russian
 
 <div align="center">
 
-### Got a real problem worth solving? Let's talk. 💬
+### Got a real problem worth solving, or an opportunity? Let's talk. 💬
 
 [🌐 Portfolio](https://hiltunenjuho.github.io/) ·
 [💼 LinkedIn](https://www.linkedin.com/in/hiltunenjuho/) ·
 [✉️ Email](mailto:juho.m.hiltunen@gmail.com)
 
-  <img src="./assets/logo_transparent_corners.png" alt="logo" height="10%">
+  <img src="./assets/logo_transparent_corners.png" alt="logo">
 </div>
