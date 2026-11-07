@@ -30,7 +30,7 @@ Since 2024, I've been developing my skills through software development and prog
 
 ## 🚀 Some things I'm building now
 
-### 🗓️ [Day Planner](https://github.com/hiltunenjuho/app-day-planner)
+### 🗓️ [Quiz Game](https://github.com/hiltunenjuho/react-quiz-game)
 
 A personal planning app for organizing the day with a timeline, reusable templates, and notes. Built with **React, TypeScript, Vite, and Zustand**. The project is actively in progress.
 
