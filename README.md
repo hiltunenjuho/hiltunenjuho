@@ -30,9 +30,9 @@ Since 2024, I've been developing my skills through software development and prog
 
 ## 🚀 Some things I'm building now
 
-### 🗓️ [Quiz Game](https://github.com/hiltunenjuho/react-quiz-game)
+### 🗓️ [knowdium!](https://github.com/hiltunenjuho/knowdium/)
 
-A platform to experiment adding more and more different features and dig deeper in the stack. Built with **React, TypeScript, Vite, and Zustand**. The project is actively in progress.
+A trivia quiz game, a platform to experiment adding more and more different features and dig deeper in the stack. Built with **React, TypeScript, Vite, CSS**. The project is actively in progress.
 
 ### ✨ [Personal portfolio website](https://hiltunenjuho.github.io/)
 
