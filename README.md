@@ -1,99 +1,78 @@
 <div align="center">
-  <img src="./assets/profile-banner.png" alt="Juho Hiltunen — turning everyday problems into useful software" width="100%">
+  <img src="./assets/profile-banner.png" alt="Juho Hiltunen — building useful software" width="100%">
 
   <h1>Hello, I'm Juho 👋</h1>
-  <h3>Junior Software Developer · Practical problem solver · Always learning</h3>
+  <h3>Software developer · Product-minded builder · Curious problem solver</h3>
 
   <p>
-    I turn everyday friction into software that makes work flow better.<br>
-    Curious by default. Hands-on by choice. Here to build things that matter.
+    I build clean, useful digital experiences that turn everyday friction into better workflows.<br>
+    I like practical product thinking, fast iteration, and shipping things people can actually use.
   </p>
 
   <a href="https://hiltunenjuho.github.io/">
-    <img src="https://img.shields.io/badge/WEBSITE-FFD700?style=for-the-badge&logo=googlechrome&logoColor=171717" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-1F1F1F?style=for-the-badge&logo=googlechrome&logoColor=5AD38A" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/hiltunenjuho/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:juho.m.hiltunen@gmail.com">
-    <img src="https://img.shields.io/badge/LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=f2a60c" alt="Email Juho">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Juho">
   </a>
 </div>
 
 <br>
 
-## ⚡ The short version
+## ⚡ Selected projects
 
-I'm a software developer who enjoys solving business problems, improving workflows, and building practical software. I like getting to grips with complex systems, spotting inefficiencies, and turning what I learn into useful solutions.
+### 🩺 [Pharmacy Finder](https://hiltunenjuho.github.io/nearest-pharmacy-web/)
 
-Since 2024, I've been developing my skills through software development and programming studies, a structured learning plan, and practical project work. I learn by building, testing ideas in practice, and improving them as I go.
+A personal, polished nearest-pharmacy product built for the Helsinki Metropolitan Area. The web app includes geolocation, distance sorting, clean results, and a strong dark UI with a pharmacy-green accent system.
 
-## 🚀 Some things I'm building now
+- Web app: [GitHub repo](https://github.com/hiltunenjuho/nearest-pharmacy-web)
+- iOS app: [GitHub repo](https://github.com/hiltunenjuho/nearest-pharmacy-ios)
+- Live demo: [Open the app](https://hiltunenjuho.github.io/nearest-pharmacy-web/)
 
-### 🗓️ [knowdium!](https://github.com/hiltunenjuho/knowdium/)
+### 🧠 [knowdium!](https://github.com/hiltunenjuho/knowdium/)
 
-A trivia quiz game, a platform to experiment adding more and more different features and dig deeper in the stack. Built with **React, TypeScript, Vite, CSS**. The project is actively in progress.
+A learning-focused trivia game and product experiments playground built with **React, TypeScript, Vite, and CSS**.
 
 ### ✨ [Personal portfolio website](https://hiltunenjuho.github.io/)
 
-My corner of the web: a responsive portfolio with animated interactions and a little glow. Built with **HTML, CSS, and JavaScript**.
+A personal portfolio and profile site with a strong brand direction, interactive layouts, and a clean front-end experience.
 
-### 🧩 Workflow tools & automations
+### 🧩 Workflow tooling and automation
 
-I've also built numerous JavaScript tools, browser extensions, integrations, APIs and automations to reduce repetitive work in real business workflows. Some were made for internal systems and can't be shared publicly—but I'm happy to talk about the problems and how I approached them.
+I also build practical browser tools, automation scripts, and workflow improvements that solve real day-to-day friction in business and digital operations.
 
 ## 🛠️ My toolkit
 
-Technologies and tools I've worked with, grouped by area:
+**Languages**
 
-**Languages & web**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=171717)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frontend & browser**
+**Frontend / product**
 
-![React](https://img.shields.io/badge/React-B026FF?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Browser Extensions](https://img.shields.io/badge/Browser_Extensions-292929?style=flat-square&logo=googlechrome&logoColor=FFD700)
-![Web APIs](https://img.shields.io/badge/Web_APIs-292929?style=flat-square)
-![DOM](https://img.shields.io/badge/DOM-292929?style=flat-square)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FF5A5F?style=flat-square&logo=swift&logoColor=white)
 
-**Backend, data & integrations**
+**Backend / workflow**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-292929?style=flat-square)
-![JSON](https://img.shields.io/badge/JSON-292929?style=flat-square&logo=json&logoColor=FFD700)
-![Integrations](https://img.shields.io/badge/Integrations-292929?style=flat-square)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-292929?style=flat-square)
-
-**Tools & delivery**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-292929?style=flat-square&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-292929?style=flat-square)
-
-**AI & development workflows**
-
-![LLMs](https://img.shields.io/badge/LLMs-B026FF?style=flat-square)
-![AI-assisted Development](https://img.shields.io/badge/AI--assisted_Development-292929?style=flat-square)
-![Agentic Development](https://img.shields.io/badge/Agentic_Development-292929?style=flat-square)
-
-I use AI tools as part of my development workflow and keep building my understanding through practical projects.
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 
 ## 🧠 How I like to work
 
-- Start with the problem, not the trendiest tool.
-- Break big unknowns into small things I can test and learn from.
-- Use AI to move faster—then review, understand, and verify the result.
-- Keep learning, stay curious, and make the next version better.
+- Start from the real user problem
+- Build small, testable, useful iterations
+- Keep the user experience polished without unnecessary complexity
+- Use AI as an accelerator while still understanding the result deeply
 
 ## 🌍 Languages
 
@@ -101,11 +80,11 @@ Finnish · English · Russian
 
 <div align="center">
 
-### Got a real problem worth solving, or an opportunity? Let's talk. 💬
+### Let’s build something useful. 💬
 
 [🌐 Portfolio](https://hiltunenjuho.github.io/) ·
 [💼 LinkedIn](https://www.linkedin.com/in/hiltunenjuho/) ·
 [✉️ Email](mailto:juho.m.hiltunen@gmail.com)
 
-  <img src="./assets/logo_transparent_corners.png" alt="logo">
+  <img src="./assets/logo_transparent_corners.png" alt="logo" width="120">
 </div>
