@@ -26,7 +26,7 @@
 
 ### 🩺 [Pharmacy Finder](https://hiltunenjuho.github.io/nearest-pharmacy-web/)
 
-A personal, polished nearest-pharmacy product built for the Helsinki Metropolitan Area. The web app includes geolocation, distance sorting, clean results, and a strong dark UI with a pharmacy-green accent system.
+A global nearest-pharmacy app for web and iOS. It uses geolocation and OpenStreetMap to find up to 10 nearby pharmacies within 50 km, sorted by distance, with System/Light/Dark appearance options on both platforms.
 
 - Web app: [GitHub repo](https://github.com/hiltunenjuho/nearest-pharmacy-web)
 - iOS app: [GitHub repo](https://github.com/hiltunenjuho/nearest-pharmacy-ios)
