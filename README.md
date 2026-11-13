@@ -34,7 +34,7 @@ A pharmacy finder project with a live web demo and SwiftUI iOS source. It uses d
 
 ### 🧠 [knowdium!](https://github.com/hiltunenjuho/knowdium/)
 
-A learning-focused trivia game and product experiments playground built with **React, TypeScript, Vite, and CSS**.
+A game-first multiple-choice trivia prototype in development, built with **React, TypeScript, Vite, and CSS**. Its current focus is short rounds and playful challenge, not an educational platform.
 
 ### ✨ [Personal portfolio website](https://hiltunenjuho.github.io/)
 
