@@ -2,15 +2,15 @@
   <img src="./assets/profile-banner.png" alt="Juho Hiltunen — building useful software" width="100%">
 
   <h1>Hello, I'm Juho 👋</h1>
-  <h3>Software developer · Product-minded builder · Curious problem solver</h3>
+  <h3>Software developer · Web apps · Automation</h3>
 
   <p>
-    I build clean, useful digital experiences that turn everyday friction into better workflows.<br>
-    I like practical product thinking, fast iteration, and shipping things people can actually use.
+    I build web applications and workflow tools with a focus on clear requirements,<br>
+    reliable behavior, and maintainable code.
   </p>
 
   <a href="https://hiltunenjuho.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-1F1F1F?style=for-the-badge&logo=googlechrome&logoColor=5AD38A" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-1F1F1F?style=for-the-badge&logo=googlechrome&logoColor=FFD700" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/hiltunenjuho/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -26,10 +26,10 @@
 
 ### 🩺 [Pharmacy Finder](https://hiltunenjuho.github.io/nearest-pharmacy-web/)
 
-A global nearest-pharmacy app for web and iOS. It uses geolocation and OpenStreetMap to find up to 10 nearby pharmacies within 50 km, sorted by distance, with System/Light/Dark appearance options on both platforms.
+A pharmacy finder project with a live web demo and SwiftUI iOS source. It uses device location to show up to 10 pharmacies within 50 km, ranked by distance. The interfaces support Finnish and English and follow system appearance by default, with manual light/dark controls.
 
 - Web app: [GitHub repo](https://github.com/hiltunenjuho/nearest-pharmacy-web)
-- iOS app: [GitHub repo](https://github.com/hiltunenjuho/nearest-pharmacy-ios)
+- iOS SwiftUI source: [GitHub repo](https://github.com/hiltunenjuho/nearest-pharmacy-ios)
 - Live demo: [Open the app](https://hiltunenjuho.github.io/nearest-pharmacy-web/)
 
 ### 🧠 [knowdium!](https://github.com/hiltunenjuho/knowdium/)
@@ -42,7 +42,7 @@ A personal portfolio and profile site with a strong brand direction, interactive
 
 ### 🧩 Workflow tooling and automation
 
-I also build practical browser tools, automation scripts, and workflow improvements that solve real day-to-day friction in business and digital operations.
+I also build browser tools, automation scripts, and workflow improvements for business and digital operations.
 
 ## 🛠️ My toolkit
 
@@ -67,12 +67,11 @@ I also build practical browser tools, automation scripts, and workflow improveme
 ![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 
-## 🧠 How I like to work
+## 🧠 Engineering approach
 
-- Start from the real user problem
-- Build small, testable, useful iterations
-- Keep the user experience polished without unnecessary complexity
-- Use AI as an accelerator while still understanding the result deeply
+- Clarify requirements and constraints before implementation
+- Keep changes scoped, testable, and maintainable
+- Document important decisions and trade-offs
 
 ## 🌍 Languages
 
