@@ -32,9 +32,9 @@ A pharmacy finder project with a live web demo and SwiftUI iOS source. It uses d
 - iOS SwiftUI source: [GitHub repo](https://github.com/hiltunenjuho/nearest-pharmacy-ios)
 - Live demo: [Open the app](https://hiltunenjuho.github.io/nearest-pharmacy-web/)
 
-### 🧠 [knowdium!](https://github.com/hiltunenjuho/knowdium/)
+### 🧠 [knowdium!](https://hiltunenjuho.github.io/knowdium/)
 
-A game-first multiple-choice trivia prototype in development, built with **React, TypeScript, Vite, and CSS**. Its current focus is short rounds and playful challenge, not an educational platform.
+A playable trivia game built with **React, TypeScript, Vite, and CSS**. It offers three game modes, English, Finnish and Russian interfaces, and optional in-browser question translation. [Source code](https://github.com/hiltunenjuho/knowdium).
 
 ### ✨ [Personal portfolio website](https://hiltunenjuho.github.io/)
 
@@ -54,9 +54,9 @@ I also build browser tools, automation scripts, and workflow improvements for bu
 
 <p align="center">
   <img src="./assets/screenshots/portfolio-home.png" alt="Portfolio website desktop homepage" width="49%">
-  <img src="./assets/screenshots/knowdium-question.png" alt="Knowdium prototype displaying a trivia question" width="49%">
+  <img src="./assets/screenshots/knowdium-home.png" alt="Knowdium's English-language desktop home page" width="49%">
 </p>
-<p align="center"><em>Portfolio homepage and an early Knowdium gameplay view.</em></p>
+<p align="center"><em>Portfolio homepage and Knowdium's English-language home page.</em></p>
 
 ## 🛠️ My toolkit
 
