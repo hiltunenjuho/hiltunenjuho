@@ -44,6 +44,20 @@ A personal portfolio and profile site with a strong brand direction, interactive
 
 I also build browser tools, automation scripts, and workflow improvements for business and digital operations.
 
+## Project screenshots
+
+<p align="center">
+  <img src="./assets/screenshots/pharmacy-finder-dark.png" alt="Pharmacy Finder web app in dark theme" width="49%">
+  <img src="./assets/screenshots/pharmacy-finder-light.png" alt="Pharmacy Finder web app in light theme" width="49%">
+</p>
+<p align="center"><em>Pharmacy Finder's desktop web demo in both themes.</em></p>
+
+<p align="center">
+  <img src="./assets/screenshots/portfolio-home.png" alt="Portfolio website desktop homepage" width="49%">
+  <img src="./assets/screenshots/knowdium-question.png" alt="Knowdium prototype displaying a trivia question" width="49%">
+</p>
+<p align="center"><em>Portfolio homepage and an early Knowdium gameplay view.</em></p>
+
 ## 🛠️ My toolkit
 
 **Languages**
